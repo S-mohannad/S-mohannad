@@ -118,18 +118,27 @@ class About(Me):
 ### 🚗 AI Car License Plate Recognition System &nbsp;*(Graduation Project · Grade: Excellent)*
 > **Python · OpenCV · Keras/CNN · Tkinter**
 
-End-to-end computer vision system — detects plates from **live webcam or images**, segments individual characters, and classifies them using a **custom-trained CNN (36 classes)**. Matched plates are looked up in a local driver database and results are shown in a **Tkinter GUI** with three operating modes: live camera, batch photo processing, and database browser.
+Detects vehicle plates from **live webcam or images**, segments characters, and classifies them via a **custom CNN (36 classes)**. Results displayed in a **Tkinter GUI** with 3 modes: live camera, batch photos, and database browser.
 
 `Computer Vision` `Deep Learning` `CNN` `GUI` `Model Evaluation`
 
 ---
 
 ### 🏫 Iraqi Creative School — Multi-page Website &nbsp;*(Team Project)*
-> **HTML · CSS · JavaScript · Multi-page Layout**
+> **HTML · CSS · JavaScript**
 
-A fully collaborative school website built with a classmate. Features a homepage with vision/mission sections, a features page with six categorized highlight sections, an animated **3D flip-card login/signup form** (RTL Arabic interface with client-side validation), and a structured **student enrollment form** with grouped fields and real-time fill progress. Built using custom CSS gradients, Google Fonts, responsive Flexbox layout, and a full social footer.
+School website with homepage, features page, **3D flip-card login form** (RTL Arabic), and a student enrollment form with real-time validation. Responsive layout with custom gradients and social footer.
 
 `HTML/CSS` `Responsive Design` `RTL` `Form Validation` `Team Collaboration`
+
+---
+
+### 🛒 Sun E-Commerce — Online Store Page &nbsp;*(Personal Project)*
+> **HTML · CSS · JavaScript**
+
+A responsive e-commerce product page with product cards, category filtering, shopping cart UI, and a clean modern layout.
+
+`HTML/CSS` `E-Commerce UI` `Responsive Design` `JavaScript`
 
 <hr>
 
