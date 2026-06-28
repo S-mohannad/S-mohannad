@@ -1,10 +1,12 @@
 <div align="center">
 
-<h1 >Hi, I'm S-mohannad  👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Saifulislam+%F0%9F%91%8B;IT+Graduate+%7C+AI+%26+CV+Enthusiast;Always+Learning+%E2%9A%A1)](https://git.io/typing-svg)
+
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br><br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=S-mohannad&style=flat&color=orange&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saif--muhannad-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-muhannad-263418325/)
+[![Facebook](https://img.shields.io/badge/Facebook-saif.muhannad-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/saif.muhannad.146)
 [![Gmail](https://img.shields.io/badge/Gmail-syfs9798-D14836?style=flat&logo=gmail&logoColor=white)](mailto:syfs9798@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-S--mohannad-181717?style=flat&logo=github&logoColor=white)](https://github.com/S-mohannad)
 
@@ -39,51 +41,73 @@ class SaifulislamMohanad:
 
 ## 🚀 Tech Stack
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![sep](https://img.shields.io/badge/-%3A-orange)
+**💻 Programming Languages**
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**🌐 Web**
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-117AC9?style=flat&logo=wordpress&logoColor=white)
+
+**🤖 AI / Computer Vision**
+
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**📊 Data & BI**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
+**🛠️ Tools & IDEs**
+
 ![VS Code](https://img.shields.io/badge/VS%20Code-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=black)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
-![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) 
-![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) 
-![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) 
-![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) 
-![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) 
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) 
-![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) 
-![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
+
+**🔌 Networking & Engineering**
+
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900?style=flat&logo=nvidia&logoColor=white)
+
+**🎮 Gaming**
+
+![Steam](https://img.shields.io/badge/Steam-000000?style=flat&logo=steam&logoColor=white)
+![Xbox](https://img.shields.io/badge/Xbox-107C10?style=flat&logo=xbox&logoColor=white)
+![Epic Games](https://img.shields.io/badge/Epic%20Games-313131?style=flat&logo=epicgames&logoColor=white)
+![Riot Games](https://img.shields.io/badge/Riot%20Games-D32936?style=flat&logo=riotgames&logoColor=white)
+![EA](https://img.shields.io/badge/EA-000000?style=flat&logo=ea&logoColor=white)
+![Ubisoft](https://img.shields.io/badge/Ubisoft-F5F5F5?style=flat&logo=ubisoft&logoColor=black)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-313131?style=flat&logo=unrealengine&logoColor=white)
 
 ```python
-# tools organized
+# stack organized
 class About(Me):
     my_tools = {
-        "Languages"   : ["Python", "C", "C++", "C#", "PHP", "HTML", "CSS", "SQL"],
+        "Languages"   : ["Python", "C", "C++", "C#", "PHP", "SQL"],
+        "Web"         : ["HTML", "CSS", "WordPress"],
         "AI / Vision" : ["Keras", "OpenCV", "CNN", "NumPy", "Pandas"],
-        "Data"        : ["Power BI", "Tableau", "Excel"],
-        "Tools"       : ["VS Code", "Git", "SQLite", "Photoshop", "Arduino IDE", "Dev-C++"],
+        "Data & BI"   : ["Power BI", "Tableau", "Excel", "MySQL", "SQLite"],
+        "Tools"       : ["VS Code", "Git", "GitHub", "Arduino IDE", "Photoshop", "Canva"],
         "Networking"  : ["Cisco / Packet Tracer", "MATLAB"],
+        "Gaming"      : ["Steam", "Xbox", "Epic", "Riot", "EA", "Ubisoft", "Unity", "Unreal"],
     }
 ```
 
@@ -94,31 +118,32 @@ class About(Me):
 ### 🚗 AI Car License Plate Recognition System &nbsp;*(Graduation Project · Grade: Excellent)*
 > **Python · OpenCV · Keras/CNN · Tkinter**
 
-End-to-end computer vision system — detects plates from **live webcam or images**, segments characters, and classifies them with a **custom CNN (36 classes)**. Plates are matched against a local driver database and displayed in a **Tkinter GUI** with three operating modes.
+End-to-end computer vision system — detects plates from **live webcam or images**, segments individual characters, and classifies them using a **custom-trained CNN (36 classes)**. Matched plates are looked up in a local driver database and results are shown in a **Tkinter GUI** with three operating modes: live camera, batch photo processing, and database browser.
 
 `Computer Vision` `Deep Learning` `CNN` `GUI` `Model Evaluation`
 
 ---
 
 ### 🏫 Iraqi Creative School — Multi-page Website &nbsp;*(Team Project)*
-> **HTML · CSS · Multi-page Layout**
+> **HTML · CSS · JavaScript · Multi-page Layout**
 
-Collaborative school website with homepage, features page, animated 3D flip login/signup forms (RTL Arabic), and a full student enrollment form. Custom gradients, Google Fonts, responsive layout, and social footer.
+A fully collaborative school website built with a classmate. Features a homepage with vision/mission sections, a features page with six categorized highlight sections, an animated **3D flip-card login/signup form** (RTL Arabic interface with client-side validation), and a structured **student enrollment form** with grouped fields and real-time fill progress. Built using custom CSS gradients, Google Fonts, responsive Flexbox layout, and a full social footer.
 
-`HTML/CSS` `Responsive Design` `RTL` `Team Collaboration` `Form Validation`
+`HTML/CSS` `Responsive Design` `RTL` `Form Validation` `Team Collaboration`
 
 <hr>
 
 ## 📜 Certifications
 
-| Certificate | Issuer |
-|---|---|
-| Python Basics — 1000 Iraqi Programmers Initiative | Al-Khwarizmi Center for AI |
-| Data Analyst Career Preparation | IBM / Cognitive Class |
-| IT Fundamentals | IBM SkillsBuild |
-| Craft Precise Prompts for AI Models | IBM SkillsBuild |
-| Getting Started with Generative AI | IBM SkillsBuild |
-| Introduction to Generative AI — Art of the Possible | AWS Training & Certification |
+| Certificate | Issuer | Verify |
+|---|---|---|
+| Python Basics — 1000 Iraqi Programmers Initiative (Phase 1) | Al-Khwarizmi Center for AI | — |
+| Data Analyst: Career Preparation | IBM / Cognitive Class | [🔗](https://cognitiveclass.ai/certificates/79076f51-5e47-4a2e-ba17-008f3680037a) |
+| Information Technology Fundamentals | IBM SkillsBuild | [🔗](https://www.credly.com/badges/8436cbd4-1668-48a3-a9eb-853ee7020011) |
+| Craft Precise Prompts for AI Models | IBM SkillsBuild | [🔗](https://www.credly.com/go/TamFTv7l) |
+| Getting Started with Generative AI | IBM SkillsBuild | [🔗](https://www.credly.com/go/HdOrHvU9) |
+| Introduction to Generative AI — Art of the Possible | AWS Training & Certification | [🔗](https://skillbuilder.aws/learn/ZEVZZ1D4AS/introduction-to-generative-ai--art-of-the-possible/Y7MTGJCW1U) |
+| Foundations of Prompt Engineering | AWS Training & Certification | [🔗](https://skillbuilder.aws/learn/VF6H4SZ1BU/foundations-of-prompt-engineering/7U8XFUVXDT) |
 
 <hr>
 
@@ -153,6 +178,7 @@ Collaborative school website with homepage, features page, animated 3D flip logi
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-saif--muhannad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saif-muhannad-263418325/)
+[![Facebook](https://img.shields.io/badge/Facebook-saif.muhannad-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/saif.muhannad.146)
 [![Gmail](https://img.shields.io/badge/Gmail-syfs9798%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:syfs9798@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-S--mohannad-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/S-mohannad)
 
